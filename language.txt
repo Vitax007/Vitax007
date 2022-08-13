@@ -1,1 +1,3 @@
 farsi
+English
+Arabic
