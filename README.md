@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and artificial intelligence
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me Vitax007@gmail.com
 
 <!---
 Vitax007/Vitax007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
